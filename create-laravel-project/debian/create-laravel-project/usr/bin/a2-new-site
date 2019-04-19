@@ -1,0 +1,1 @@
+bash /usr/share/create-laravel-project/bin/a2-new-site.sh $1

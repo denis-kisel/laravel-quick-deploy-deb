@@ -1,0 +1,10 @@
+Package: create-laravel-project
+Version: 0.1-1.1
+Architecture: all
+Maintainer: Denis Kisel <denis.kisel92@gmail.com>
+Installed-Size: 25
+Depends: apache2
+Section: unknown
+Priority: optional
+Homepage: digital-elephant.com.ua
+Description: Quick deploy laravel

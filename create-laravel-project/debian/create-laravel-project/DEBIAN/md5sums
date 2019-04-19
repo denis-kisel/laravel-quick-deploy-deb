@@ -1,0 +1,8 @@
+277c5bdbdaa2fd245b829a4b38bb5fe4  usr/bin/a2-new-site
+d1c6a8d987f80a5f3a32e034b75b7786  usr/bin/lara-new
+a3d1edc09c1c28bd7da157dd5fc791b5  usr/share/create-laravel-project/bin/a2-new-site.sh
+4f9f98a84416aca0ebb5a2058cc2fa1f  usr/share/create-laravel-project/bin/lara-new.sh
+2000d171eaba72d5e74714975f97f365  usr/share/create-laravel-project/stubs/apache-site.stub
+e76ee6f94ed883582a4f8cf2f1623207  usr/share/create-laravel-project/stubs/env.stub
+54c7135047ebed81e80e30ed63c5d5c5  usr/share/doc/create-laravel-project/changelog.Debian.gz
+d03fbd12c5248a28c4fe7f37d58e9ac6  usr/share/doc/create-laravel-project/copyright

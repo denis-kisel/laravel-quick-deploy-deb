@@ -1,0 +1,1 @@
+bash /usr/share/create-laravel-project/bin/lara-new.sh $1

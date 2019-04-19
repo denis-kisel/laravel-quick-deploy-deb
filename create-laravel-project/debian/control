@@ -1,0 +1,15 @@
+Source: create-laravel-project
+Section: unknown
+Priority: optional
+Maintainer: Denis Kisel <denis.kisel92@gmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: digital-elephant.com.ua
+#Vcs-Browser: https://salsa.debian.org/debian/create-laravel-project
+#Vcs-Git: https://salsa.debian.org/debian/create-laravel-project.git
+
+Package: create-laravel-project
+Architecture: all
+Depends: apache2
+Description: Quick deploy laravel
+

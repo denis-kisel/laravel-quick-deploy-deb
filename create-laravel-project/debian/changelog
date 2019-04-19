@@ -1,0 +1,12 @@
+create-laravel-project (0.1-1.1) unstable; urgency=medium
+
+  * First release.
+  * 
+
+ -- Denis Kisel <denis.kisel92@gmail.com>  Fri, 19 Apr 2019 10:52:51 +0300
+
+create-laravel-project (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Denis Kisel <denis.kisel92@gmail.com>  Fri, 19 Apr 2019 10:24:58 +0300
