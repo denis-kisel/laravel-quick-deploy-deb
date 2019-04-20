@@ -1,4 +1,4 @@
-# Shorts
+# Quick Deploy Laravel Project
 
 This is package for quick deploy laravel project with necessary development tools. Supported only **apache2** so far.
 
