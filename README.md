@@ -8,7 +8,7 @@ Packages included:
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar)
 * [Admin Widget Generator](https://github.com/denis-kisel/laravel-admin-widget)
-* [Admin Ready Solution Generator](https://github.com/denis-kisel/laravel-admin-ready-solution)
+* [Constructor](https://github.com/denis-kisel/constructor-laravel)
 * [Arliot Widget](https://github.com/arrilot/laravel-widgets)
 
 ## Installation
